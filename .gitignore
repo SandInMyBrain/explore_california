@@ -10,3 +10,5 @@ log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
 !assetes/videos/tour_*.mp4
+
+gitignore_Visual_Studio.txt
