@@ -1,0 +1,12 @@
+#list files to be ignored
+
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assetes/videos/tour_*.mp4
